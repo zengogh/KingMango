@@ -1,1 +1,0 @@
-# KingMango for Tyoecho themes
